@@ -1,0 +1,359 @@
+[
+  {
+    "clue": "Órgano que bombea sangre",
+    "answer": "CORAZON",
+    "row": 0,
+    "col": 5,
+    "isAcross": true
+  },
+  {
+    "clue": "Membrana que recubre órganos",
+    "answer": "PERITONEO",
+    "row": 8,
+    "col": 3,
+    "isAcross": true
+  },
+  {
+    "clue": "Capa externa del cuerpo",
+    "answer": "PIEL",
+    "row": 1,
+    "col": 8,
+    "isAcross": true
+  },
+  {
+    "clue": "Glóbulo blanco",
+    "answer": "LEUCOCITO",
+    "row": 7,
+    "col": 1,
+    "isAcross": false
+  },
+  {
+    "clue": "Inflamación de las articulaciones",
+    "answer": "ARTRITIS",
+    "row": 8,
+    "col": 5,
+    "isAcross": false
+  },
+  {
+    "clue": "Estudio de los tejidos",
+    "answer": "HISTOLOGIA",
+    "row": 3,
+    "col": 1,
+    "isAcross": true
+  },
+  {
+    "clue": "Infección viral común",
+    "answer": "GRIPE",
+    "row": 8,
+    "col": 4,
+    "isAcross": false
+  },
+  {
+    "clue": "Instrumento para escuchar",
+    "answer": "ESTETOSCOPIO",
+    "row": 4,
+    "col": 9,
+    "isAcross": true
+  },
+  {
+    "clue": "Lugar donde nacen los bebés",
+    "answer": "PARTO",
+    "row": 2,
+    "col": 9,
+    "isAcross": true
+  },
+  {
+    "clue": "Pérdida de sangre",
+    "answer": "HEMORRAGIA",
+    "row": 8,
+    "col": 5,
+    "isAcross": false
+  },
+  {
+    "clue": "Falta de glóbulos rojos",
+    "answer": "ANEMIA",
+    "row": 4,
+    "col": 0,
+    "isAcross": false
+  },
+  {
+    "clue": "Especialista en niños",
+    "answer": "PEDIATRA",
+    "row": 6,
+    "col": 5,
+    "isAcross": false
+  },
+  {
+    "clue": "Inflamación del hígado",
+    "answer": "HEPATITIS",
+    "row": 9,
+    "col": 7,
+    "isAcross": true
+  },
+  {
+    "clue": "Tejido conectivo líquido",
+    "answer": "SANGRE",
+    "row": 3,
+    "col": 9,
+    "isAcross": true
+  },
+  {
+    "clue": "Especialidad médica del corazón",
+    "answer": "CARDIOLOGIA",
+    "row": 2,
+    "col": 1,
+    "isAcross": true
+  },
+  {
+    "clue": "Molécula que transporta oxígeno",
+    "answer": "HEMOGLOBINA",
+    "row": 9,
+    "col": 3,
+    "isAcross": false
+  },
+  {
+    "clue": "Antibiótico natural",
+    "answer": "PENICILINA",
+    "row": 8,
+    "col": 8,
+    "isAcross": false
+  },
+  {
+    "clue": "Procedimiento para ver dentro del cuerpo",
+    "answer": "ENDOSCOPIA",
+    "row": 7,
+    "col": 6,
+    "isAcross": false
+  },
+  {
+    "clue": "Unidad funcional del riñón",
+    "answer": "NEFRONA",
+    "row": 8,
+    "col": 2,
+    "isAcross": false
+  },
+  {
+    "clue": "Hormona que regula el azúcar",
+    "answer": "INSULINA",
+    "row": 4,
+    "col": 3,
+    "isAcross": true
+  },
+  {
+    "clue": "Estudio de los microorganismos",
+    "answer": "MICROBIOLOGIA",
+    "row": 3,
+    "col": 8,
+    "isAcross": true
+  },
+  {
+    "clue": "Estudio de las enfermedades",
+    "answer": "PATOLOGIA",
+    "row": 3,
+    "col": 3,
+    "isAcross": true
+  },
+  {
+    "clue": "Inflamación de la piel",
+    "answer": "DERMATITIS",
+    "row": 3,
+    "col": 8,
+    "isAcross": false
+  },
+  {
+    "clue": "Especialista en piel",
+    "answer": "DERMATOLOGO",
+    "row": 9,
+    "col": 8,
+    "isAcross": true
+  },
+  {
+    "clue": "Análisis de sangre para detectar infecciones",
+    "answer": "HEMOCULTIVO",
+    "row": 4,
+    "col": 9,
+    "isAcross": false
+  },
+  {
+    "clue": "Proceso de respiración celular",
+    "answer": "OXIDACION",
+    "row": 6,
+    "col": 6,
+    "isAcross": true
+  },
+  {
+    "clue": "Cáncer de sangre",
+    "answer": "LEUCEMIA",
+    "row": 5,
+    "col": 9,
+    "isAcross": false
+  },
+  {
+    "clue": "Hueso largo del muslo",
+    "answer": "FEMUR",
+    "row": 6,
+    "col": 5,
+    "isAcross": true
+  },
+  {
+    "clue": "Líquido que lubrica articulaciones",
+    "answer": "LIQUIDOSINOVIAL",
+    "row": 0,
+    "col": 1,
+    "isAcross": true
+  },
+  {
+    "clue": "Estudio de las hormonas",
+    "answer": "ENDOCRINOLOGIA",
+    "row": 6,
+    "col": 1,
+    "isAcross": true
+  },
+  {
+    "clue": "Enfermedad neurodegenerativa",
+    "answer": "ALZHEIMER",
+    "row": 0,
+    "col": 3,
+    "isAcross": true
+  },
+  {
+    "clue": "Causa bacteriana de úlceras",
+    "answer": "HELICOBACTER",
+    "row": 1,
+    "col": 4,
+    "isAcross": false
+  },
+  {
+    "clue": "Parte del sistema nervioso central",
+    "answer": "ENCEFALO",
+    "row": 4,
+    "col": 7,
+    "isAcross": true
+  },
+  {
+    "clue": "Medicamento para el dolor",
+    "answer": "ANALGESICO",
+    "row": 5,
+    "col": 2,
+    "isAcross": true
+  },
+  {
+    "clue": "Instrumento para medir presión",
+    "answer": "ESFIGMOMANOMETRO",
+    "row": 1,
+    "col": 2,
+    "isAcross": false
+  },
+  {
+    "clue": "Falta de oxígeno",
+    "answer": "HIPOXIA",
+    "row": 7,
+    "col": 5,
+    "isAcross": true
+  },
+  {
+    "clue": "Especialista en cirugía",
+    "answer": "CIRUJANO",
+    "row": 4,
+    "col": 2,
+    "isAcross": false
+  },
+  {
+    "clue": "Prueba para medir glucosa",
+    "answer": "GLUCEMIA",
+    "row": 2,
+    "col": 7,
+    "isAcross": true
+  },
+  {
+    "clue": "Zona de crecimiento óseo",
+    "answer": "EPIFISIS",
+    "row": 1,
+    "col": 6,
+    "isAcross": false
+  },
+  {
+    "clue": "Transmisión de sangre",
+    "answer": "TRANSFUSION",
+    "row": 5,
+    "col": 0,
+    "isAcross": true
+  },
+  {
+    "clue": "Sistema de defensa",
+    "answer": "INMUNITARIO",
+    "row": 6,
+    "col": 2,
+    "isAcross": false
+  },
+  {
+    "clue": "Molécula de la herencia",
+    "answer": "ADN",
+    "row": 2,
+    "col": 5,
+    "isAcross": true
+  },
+  {
+    "clue": "Aparato digestivo",
+    "answer": "INTESTINO",
+    "row": 8,
+    "col": 9,
+    "isAcross": false
+  },
+  {
+    "clue": "Infección de la vejiga",
+    "answer": "CISTITIS",
+    "row": 7,
+    "col": 1,
+    "isAcross": true
+  },
+  {
+    "clue": "Exploración del útero",
+    "answer": "PAPANICOLAU",
+    "row": 8,
+    "col": 6,
+    "isAcross": false
+  },
+  {
+    "clue": "Célula básica del sistema nervioso",
+    "answer": "NEURONA",
+    "row": 7,
+    "col": 1,
+    "isAcross": true
+  },
+  {
+    "clue": "Aparato reproductor femenino",
+    "answer": "OVARIO",
+    "row": 0,
+    "col": 9,
+    "isAcross": true
+  },
+  {
+    "clue": "Compuesto esencial del hueso",
+    "answer": "CALCIO",
+    "row": 4,
+    "col": 3,
+    "isAcross": true
+  },
+  {
+    "clue": "Reacción del sistema inmune",
+    "answer": "ALERGIA",
+    "row": 1,
+    "col": 2,
+    "isAcross": false
+  },
+  {
+    "clue": "Hueso del cráneo",
+    "answer": "PARIETAL",
+    "row": 2,
+    "col": 5,
+    "isAcross": false
+  },
+  {
+    "clue": "Piel que recubre el ojo",
+    "answer": "CONJUNTIVA",
+    "row": 1,
+    "col": 5,
+    "isAcross": false
+  }
+]
